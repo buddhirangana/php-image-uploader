@@ -14,12 +14,7 @@ PHP Image Uploader help you to learn how to upload files and images in MySQL Dat
 
 ### Getting Started
 
-* Start WAMP or XAMPP, move files to htdocs directory
+* Start [Wamp Server](https://www.wampserver.com/en/) or [XAMPP Server](https://www.apachefriends.org/download.html), move files to htdocs directory
 * Create database using phpMyAdmin (Database name = "db_image_uploader")
 * Import SQL file to created database (File location = "..\Image Uploader\db\db_image_uploader.sql")
 * Open browser and type localhost in address bar
-
-
-
-
-
