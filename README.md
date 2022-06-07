@@ -1,5 +1,6 @@
 # PHP Image Uploader
 
+![24](https://github.com/buddhirangana/php-image-uploader/blob/657b6dd544f53e0795ce4dc8567c6dc4a5e3e8cb/Capture.PNG)
 PHP Image Uploader help you to learn how to upload files and images in MySQL Database and how to implement file upload validation before sending it to a web server.
 
 ### Features
